@@ -41,6 +41,9 @@
             "src/Repository/.gitignore"
         ]
     },
+    "doctrine/doctrine-cache-bundle": {
+        "version": "1.4.0"
+    },
     "doctrine/doctrine-migrations-bundle": {
         "version": "1.2",
         "recipe": {
@@ -129,6 +132,9 @@
     "psr/log": {
         "version": "1.1.2"
     },
+    "psr/simple-cache": {
+        "version": "1.0.1"
+    },
     "ralouphie/getallheaders": {
         "version": "3.0.3"
     },
@@ -137,9 +143,6 @@
     },
     "symfony/cache": {
         "version": "v4.3.11"
-    },
-    "symfony/cache-contracts": {
-        "version": "v1.1.7"
     },
     "symfony/config": {
         "version": "v4.3.11"
@@ -174,9 +177,6 @@
     },
     "symfony/dotenv": {
         "version": "v4.3.11"
-    },
-    "symfony/error-handler": {
-        "version": "v4.4.5"
     },
     "symfony/event-dispatcher": {
         "version": "v4.3.11"
@@ -257,9 +257,6 @@
     "symfony/polyfill-php72": {
         "version": "v1.14.0"
     },
-    "symfony/polyfill-php73": {
-        "version": "v1.14.0"
-    },
     "symfony/process": {
         "version": "v4.3.11"
     },
@@ -277,13 +274,7 @@
             "config/routes.yaml"
         ]
     },
-    "symfony/service-contracts": {
-        "version": "v1.1.8"
-    },
     "symfony/stopwatch": {
-        "version": "v4.4.5"
-    },
-    "symfony/var-dumper": {
         "version": "v4.4.5"
     },
     "symfony/var-exporter": {

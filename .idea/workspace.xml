@@ -54,6 +54,13 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app_test.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="exchange_rate: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
@@ -142,10 +149,10 @@
     </state>
     <state x="793" y="248" width="626" height="611" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583531152541" />
     <state x="1585" y="473" width="660" height="1238" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.3840.2132@0.28.3840.2132" timestamp="1583478507662" />
-    <state x="795" y="407" width="649" height="590" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1583524405061">
+    <state x="795" y="407" width="649" height="590" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1583534694239">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="795" y="407" width="649" height="590" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583524405061" />
+    <state x="795" y="407" width="649" height="590" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583534694239" />
     <state x="1590" y="797" width="649" height="590" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.28.3840.2132@0.28.3840.2132" timestamp="1583437219543" />
     <state x="824" y="406" width="489" height="535" key="FileChooserDialogImpl" timestamp="1583531384397">
       <screen x="0" y="28" width="1920" height="1052" />
@@ -185,18 +192,22 @@
       <screen x="0" y="28" width="3840" height="2132" />
     </state>
     <state x="1270" y="641" key="SettingsEditor/0.28.3840.2132@0.28.3840.2132" timestamp="1583435553855" />
-    <state x="489" y="187" width="1023" height="734" key="find.popup" timestamp="1583533947272">
+    <state x="822" y="440" width="470" height="281" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1583535155360">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="489" y="187" width="1023" height="734" key="find.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1583533947272" />
+    <state x="822" y="440" width="470" height="281" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.28.1920.1052@0.28.1920.1052" timestamp="1583535155360" />
+    <state x="489" y="187" width="1023" height="734" key="find.popup" timestamp="1583534970637">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="489" y="187" width="1023" height="734" key="find.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1583534970637" />
     <state x="1500" y="521" key="run.anything.popup" timestamp="1583436222804">
       <screen x="0" y="28" width="3840" height="2132" />
     </state>
     <state x="1500" y="521" key="run.anything.popup/0.28.3840.2132@0.28.3840.2132" timestamp="1583436222804" />
-    <state x="750" y="272" width="840" height="511" key="search.everywhere.popup" timestamp="1583533937633">
+    <state x="750" y="272" width="840" height="511" key="search.everywhere.popup" timestamp="1583534653457">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="750" y="272" width="840" height="511" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1583533937633" />
+    <state x="750" y="272" width="840" height="511" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1583534653457" />
     <state x="1499" y="523" width="840" height="1034" key="search.everywhere.popup/0.28.3840.2132@0.28.3840.2132" timestamp="1583484922338" />
   </component>
 </project>
