@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a67bb3c-c059-4022-984b-ccbdafba9c40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app_test.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app_test.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app_test.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1Yim0c2x55dRVOynSwTXQbnsWUI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/Unit/Service/ExchangeRatesProvider" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Unit/Controller" />
+      <recent name="$PROJECT_DIR$/src/Service/ExchangeRatesProvider" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Unit/Service/ExchangeRatesProvider" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bin" />
+      <recent name="$PROJECT_DIR$/src/Service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.ExchangeAmountTest.testExchange">
+    <configuration name="CbrExchangeRatesProviderTest.testGetDailyRates" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CbrExchangeRatesProviderTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/tests/Unit/Service/ExchangeRatesProvider/CbrExchangeRatesProviderTest.php" method="testGetDailyRates" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CurrencyExchangerTest.testExchange" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CurrencyExchangerTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/tests/Unit/Service/CurrencyExchangerTest.php" method="testExchange" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EcbExchangeRatesProviderTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="EcbExchangeRatesProviderTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/tests/Unit/Service/ExchangeRatesProvider/EcbExchangeRatesProviderTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExchangeAmountTest.testExchange" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="ExchangeAmountTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/tests/Feature/ExchangeAmountTest.php" method="testExchange" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExchangeRatesControllerTest.testShow" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="ExchangeRatesControllerTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/tests/Unit/Controller/ExchangeRatesControllerTest.php" method="testShow" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.ExchangeAmountTest.testExchange" />
+        <item itemvalue="PHPUnit.EcbExchangeRatesProviderTest" />
+        <item itemvalue="PHPUnit.CbrExchangeRatesProviderTest.testGetDailyRates" />
+        <item itemvalue="PHPUnit.CurrencyExchangerTest.testExchange" />
+        <item itemvalue="PHPUnit.ExchangeRatesControllerTest.testShow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1403" y="672" width="1024" height="840" key="#Test_Frameworks" timestamp="1583436011331">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="1403" y="672" width="1024" height="840" key="#Test_Frameworks/0.28.3840.2132@0.28.3840.2132" timestamp="1583436011331" />
+    <state x="506" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583497068124">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="506" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583497068124" />
+    <state x="1533" y="876" width="763" height="432" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583484749494">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="1533" y="876" width="763" height="432" key="#com.intellij.fileTypes.FileTypeChooser/0.28.3840.2132@0.28.3840.2132" timestamp="1583484749494" />
+    <state x="1684" y="747" width="462" height="689" key="#com.intellij.ide.util.MemberChooser" timestamp="1583478471401">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="1684" y="747" width="462" height="689" key="#com.intellij.ide.util.MemberChooser/0.28.3840.2132@0.28.3840.2132" timestamp="1583478471401" />
+    <state x="793" y="248" width="626" height="611" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583531152541">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="793" y="248" width="626" height="611" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583531152541" />
+    <state x="1585" y="473" width="660" height="1238" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.3840.2132@0.28.3840.2132" timestamp="1583478507662" />
+    <state x="795" y="407" width="649" height="590" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1583524405061">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="795" y="407" width="649" height="590" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583524405061" />
+    <state x="1590" y="797" width="649" height="590" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.28.3840.2132@0.28.3840.2132" timestamp="1583437219543" />
+    <state x="824" y="406" width="489" height="535" key="FileChooserDialogImpl" timestamp="1583531384397">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="824" y="406" width="489" height="535" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1583531384397" />
+    <state x="1648" y="795" width="524" height="590" key="FileChooserDialogImpl/0.28.3840.2132@0.28.3840.2132" timestamp="1583436006053" />
+    <state width="1920" height="275" key="GridCell.Tab.0.bottom" timestamp="1583534006646">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="275" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1583534006646" />
+    <state width="3840" height="632" key="GridCell.Tab.0.bottom/0.28.3840.2132@0.28.3840.2132" timestamp="1583489833170" />
+    <state width="1920" height="275" key="GridCell.Tab.0.center" timestamp="1583534006646">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="275" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1583534006646" />
+    <state width="3840" height="632" key="GridCell.Tab.0.center/0.28.3840.2132@0.28.3840.2132" timestamp="1583489833167" />
+    <state width="1920" height="275" key="GridCell.Tab.0.left" timestamp="1583534006645">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="275" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1583534006645" />
+    <state width="3840" height="632" key="GridCell.Tab.0.left/0.28.3840.2132@0.28.3840.2132" timestamp="1583489833166" />
+    <state width="1920" height="275" key="GridCell.Tab.0.right" timestamp="1583534006646">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1920" height="275" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1583534006646" />
+    <state width="3840" height="632" key="GridCell.Tab.0.right/0.28.3840.2132@0.28.3840.2132" timestamp="1583489833169" />
+    <state x="763" y="444" width="1085" height="438" key="NewPhpClassDialog" timestamp="1583531622657">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="763" y="444" width="1085" height="438" key="NewPhpClassDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583531622657" />
+    <state x="1526" y="871" width="823" height="438" key="NewPhpClassDialog/0.28.3840.2132@0.28.3840.2132" timestamp="1583484967589" />
+    <state x="693" y="467" width="524" height="169" key="NewPhpFileDialog" timestamp="1583497691339">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="693" y="467" width="524" height="169" key="NewPhpFileDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1583497691339" />
+    <state x="1270" y="641" key="SettingsEditor" timestamp="1583435553855">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="1270" y="641" key="SettingsEditor/0.28.3840.2132@0.28.3840.2132" timestamp="1583435553855" />
+    <state x="489" y="187" width="1023" height="734" key="find.popup" timestamp="1583533947272">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="489" y="187" width="1023" height="734" key="find.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1583533947272" />
+    <state x="1500" y="521" key="run.anything.popup" timestamp="1583436222804">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="1500" y="521" key="run.anything.popup/0.28.3840.2132@0.28.3840.2132" timestamp="1583436222804" />
+    <state x="750" y="272" width="840" height="511" key="search.everywhere.popup" timestamp="1583533937633">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="750" y="272" width="840" height="511" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1583533937633" />
+    <state x="1499" y="523" width="840" height="1034" key="search.everywhere.popup/0.28.3840.2132@0.28.3840.2132" timestamp="1583484922338" />
+  </component>
+</project>
